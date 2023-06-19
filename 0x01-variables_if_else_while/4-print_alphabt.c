@@ -1,4 +1,4 @@
-#include <stdio.h> 
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
@@ -15,7 +15,7 @@ int main(void)
 	{
 		if (i != 101 && i != 113)
 		{
-			putchar(ii);
+			putchar(i);
 		}
 	}
 	putchar('\n');
