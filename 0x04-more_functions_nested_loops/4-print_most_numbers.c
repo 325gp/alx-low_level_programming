@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * print_most_number -prints 0123456789
+ * print_most_number -prints 01356789
+ * Discription: prints the number excluding 2 and 4
  * Return:void
  */
 
