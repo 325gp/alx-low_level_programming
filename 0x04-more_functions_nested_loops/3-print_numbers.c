@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * print_number - Print the number since 0 to 9
- * Return: always 0
+ * print_number - print number from 0 to 9
+ * Return: Always 0
  */
 
 void print_number(void)
 {
 
-	int c;
+	char c;
 
 	for (c = '0'; c <= '9'; c++)
 	{
